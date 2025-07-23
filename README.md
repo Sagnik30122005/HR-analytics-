@@ -1,2 +1,4 @@
-# HR-analytics-
-This is a minor project which is about HR analytics 
+# HR Analytics Case Study
+A data analytics project that analyzes employee attrition patterns at SimpleYard, a fast-growing organization experiencing high turnover rates. The project uses exploratory data analysis (EDA) to identify key factors contributing to employee churn, including departmental distribution, project involvement, tenure, salary levels, and promotion history.
+
+Built with Python using Pandas, NumPy, Matplotlib, and Seaborn, this analysis aims to help HR teams develop data-driven retention strategies by answering critical questions about workforce size, departmental attrition rates, project workload correlation, and compensation influence on employee departure decisions. The project provides statistical summaries and visualizations to quantify attrition rates and generate actionable insights for reducing future employee turnover.
